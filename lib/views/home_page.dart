@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> implements BaseView {
           crossAxisAlignment: horizontalTitleAlignment,
           children: const <Widget>[
             Text(
-              'Contacts',
+              'Assignment',
               style: TextStyle(
                 fontWeight: FontWeight.bold,
                 color: Colors.white,
