@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-// import 'package:rolodex/home_page.dart';
-// import 'data/database_helper.dart';
-
 import 'views/home_page.dart';
 
 void main() => runApp(App());
